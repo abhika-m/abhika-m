@@ -6,9 +6,10 @@ I'm currently a computer science student at the University of Washington. I'm cu
 |Name|Description|Tooling|
 |-|-|-|
 |[CropUp](https://github.com/abhika-m/cropup)|DUBHACKS WINNER 2022. Web application to determine best crops to grow in your area based on plant hardiness zone predicted by machine learning model trained on current climate's data.|<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>|<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-|[Equify](https://github.com/abhike-m/Equify)|Applied Natural Language Processing model using Stanford's CoreNLP library to identify names and then diversify them|<img src="https://img.shields.io/badge/java%20-%2320232a.svg?&style=for-the-badge&logo=Java&logoColor=%2361DAFB"/>
+|[Equify](https://github.com/abhika-m/Equify)|Applied Natural Language Processing model using Stanford's CoreNLP library to identify names and then diversify them|<img src="https://img.shields.io/badge/java%20-%2320232a.svg?&style=for-the-badge&logo=Java&logoColor=%2361DAFB"/>
 |[Cloude](https://devpost.com/software/nimbus-qp4j8w?ref_content=user-portfolio&ref_feature=in_progress)|Realtime collaborative coding IDE. Submitted to Dubhacks 2021.|<img src="https://img.shields.io/badge/react%20-%2314354C.svg?&style=for-the-badge&logo=react&logoColor=white"/><img src="https://img.shields.io/badge/Fluid%20-%2314354C.svg?&style=for-the-badge&logo=microsoft&logoColor=white%22"/>|
-[Covid Protips](https://github.com/Zjjc123/Covid-Pro-Tips)|DECODED HACKS WINNER 2020. Website with Covid statistics dashboard, medication analyzer, and resource calculator|<img src="https://img.shields.io/badge/react%20-%2314354C.svg?&style=for-the-badge&logo=react&logoColor=white"/>|
+[Covid Protips](https://github.com/Zjjc123/Covid-Pro-Tips)|DECODED HACKS WINNER 2020. Website with Covid statistics dashboard, medication analyzer, and resource calculator|<img src="https://img.shields.io/badge/react%20-%2314354C.svg?&style=for-the-badge&logo=react&logoColor=white"/> 
+|[NLP Research Summaries](https://github.com/abhika-m/researchpapers)|My summaries of some recent papers in the ML and NLP domain|<img src="https://img.shields.io/badge/Text%20-%2314354C.svg?&style=for-the-badge&logo=microsoft&logoColor=white%22"/>|
 
 ### Awards
 |Award|Issuer
