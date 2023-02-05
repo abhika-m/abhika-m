@@ -1,6 +1,6 @@
 ### Hi! My name is <a href="https://abhika-m.github.io/" target="_blank"> Abhika Mishra <a> 👋
 
-I'm currently a computer science student at the University of Washington. I'm currently taking Natural Language Processing and have taken Machine Learning. I hope to use ML as a tool to solve real world problems, specifically in healthcare.
+I'm currently a computer science student at the University of Washington. I'm currently taking Natural Language Processing and have taken Machine Learning. I'm beginning to explore the field of NLP research and particularly enjoy NLP research which includes utilizing multilingual data to improve language models as well as research which analyzes ways to generate more ethical outputs in language models. 
 
 ### Recent Projects
 |Name|Description|Tooling|
