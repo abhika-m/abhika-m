@@ -1,6 +1,11 @@
 ### Hi! My name is <a href="https://abhika-m.github.io/" target="_blank"> Abhika Mishra <a> 👋
 
-I'm currently a computer science student at the University of Washington. I'm currently taking Natural Language Processing and have taken Machine Learning. I'm beginning to explore the field of NLP research and particularly enjoy NLP research which includes utilizing multilingual data to improve language models as well as research which analyzes ways to generate more ethical outputs in language models. 
+I’m a passionate computer science student deeply committed to advancing the field of artificial intelligence (AI) with a focus on Natural Language Processing (NLP). As an Undergraduate Researcher at the University of Washington, I explore innovative approaches to enhance language models’ trustworthiness and quality, particularly in detecting hallucinations within LM outputs. I am excited to contribute my skills and insights to the ever-evolving landscape of ethical and transformative technology.
+
+### Publications
+- __Abhika Mishra__, Akari Asai, Vidhisha Balachandran, Yizhong Wang, Graham Neubig, Yulia Tsvetkov, and Hannaneh Hajishirzi     
+**Fine-grained Hallucination Detection and Editing for Language Models**
+[\[Paper\]](https://arxiv.org/abs/2401.06855), [\[Website\]](https://fine-grained-hallucination.github.io/), [\[Code\]](https://github.com/abhika-m/FAVA),  [\[Model\]](https://huggingface.co/fava-uw/fava-model), [\[Demo\]](https://huggingface.co/spaces/fava-uw/fava)
 
 ### Recent Projects
 |Name|Description|Tooling|
