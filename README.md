@@ -1,5 +1,7 @@
 ### Hi! My name is <a href="https://abhika-m.github.io/" target="_blank"> Abhika Mishra <a> 👋
 
+[Check out my code here](https://github.com/abhika-m?tab=repositories)
+
 I’m a passionate computer science student deeply committed to advancing the field of artificial intelligence (AI) with a focus on Natural Language Processing (NLP). As an Undergraduate Researcher at the University of Washington, I explore innovative approaches to enhance language models’ trustworthiness and quality, particularly in detecting hallucinations within LM outputs. I am excited to contribute my skills and insights to the ever-evolving landscape of ethical and transformative technology.
 
 ### Publications
